@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ashank Thete Ashank@git.training @ashankgit
 
 # THANKS
 
